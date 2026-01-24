@@ -1,9 +1,9 @@
 const cacheName = "DevDeBabi-gbairai-1";
 const contentToCache = [
     "Build/build.loader.js",
-    "Build/build.framework.js",
-    "Build/build.data",
-    "Build/build.wasm",
+    "Build/build.framework.js.br",
+    "Build/build.data.br",
+    "Build/build.wasm.br",
     "TemplateData/style.css"
 
 ];
